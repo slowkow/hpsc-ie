@@ -1,0 +1,244 @@
+""		2019	2020	2021	2022	2023
+Acute anterior poliomyelitis		0	0	0	0	0
+Anthrax		0	0	0	0	0
+Bacillus cereus food-borne infection or intoxication		1	1	0	3	0
+Bacterial meningitis (not otherwise specified)		19	18	12	11	15
+Botulism		0	0	0	2	0
+Brucellosis		0	0	0	1	5
+Campylobacter infection		2776	2429	3143	3613	3737
+Carbapenem-resistant Enterobacteriaceae infection (invasive)		17	9	10	23	31
+Chancroid		0	0	0	0	0
+Chickenpox - hospitalised cases		93	25	23	75	167
+Chikungunya disease		1	0	0	0	0
+Chlamydia trachomatis infection	^	9161	6941	7206	10929	13708
+Cholera		0	0	0	0	0
+Clostridium difficile infection		2291	1726	1763	2213	2255
+Clostridium perfringens (type A) food-borne disease		1	3	0	3	1
+COVID-19	ǂ	0	102346	672438	919504	35590
+Creutzfeldt Jakob disease	*	5	6	10	6	19
+Creutzfeldt Jakob disease (variant)	*	0	0	0	0	0
+Cryptosporidiosis		605	512	845	566	870
+Cytomegalovirus infection (congenital)		12	23	17	24	17
+Dengue fever		18	3	2	9	20
+Diphtheria		0	0	0	0	0
+Echinococcosis		0	0	1	1	0
+Giardiasis		252	163	160	261	324
+Gonorrhoea		2799	2059	2093	4061	6804
+Granuloma inguinale		0	0	0	0	0
+Haemophilus influenzae disease (invasive)		63	31	18	69	73
+Hepatitis A (acute)		52	37	82	66	46
+Hepatitis B (acute and chronic)		524	337	420	509	587
+Hepatitis C		471	316	414	480	535
+Hepatitis E	"#"	73	75	58	39	46
+Herpes simplex (genital)		1690	1133	1305	1613	1686
+Herpes simplex (neonatal)		3	4	4	1	1
+Human immunodeficiency virus infection	§	527	438	396	879	911
+Influenza		11256	7775	39	10425	11823
+Legionellosis		24	14	7	26	34
+Leprosy		0	1	1	1	0
+Leptospirosis		25	26	16	13	44
+Listeriosis		18	6	15	18	18
+Lyme disease		6	12	4	4	6
+Lymphogranuloma venereum		40	14	17	28	37
+Malaria		81	15	39	53	89
+Measles		64	5	0	2	4
+""	2019	2020	2021	2022	2023	
+Meningococcal disease		71	22	10	31	42
+Mpox infection		0	0	0	229	15
+Mumps		2761	2919	109	94	133
+Noroviral infection	^	1362	544	437	990	1363
+Outbreak		0	0	0	0	0
+Paratyphoid		1	1	0	7	12
+Pertussis		165	66	5	7	18
+Plague		0	0	0	0	0
+Q fever		2	2	0	0	4
+Rabies		0	0	0	0	0
+Respiratory syncytial virus infection	^	4156	1945	4371	7126	7828
+Rotavirus infection	^	963	158	166	467	560
+Rubella		0	1	0	0	0
+Salmonellosis		355	219	173	342	406
+Severe Acute Respiratory Syndrome (SARS)		0	0	0	0	0
+Shigellosis		170	74	70	157	225
+Smallpox		0	0	0	0	0
+Staphylococcal food poisoning		0	0	0	0	0
+Streptococcus group A infection (invasive)		108	43	34	99	532
+Streptococcus group B infection (invasive)		59	34	42	30	36
+Streptococcus pneumoniae infection (invasive)	**	420	249	177	375	433
+Syphilis	*^	785	604	715	885	911
+Tetanus		0	0	0	0	0
+Toxoplasmosis		47	21	19	16	20
+Trichinosis		0	0	0	0	0
+Trichomoniasis		63	38	28	70	70
+Tuberculosis		254	229	203	207	223
+Tularemia		0	0	0	0	1
+Typhoid		27	2	9	31	15
+Typhus		0	0	0	0	1
+Verotoxigenic Escherichia coli infection		869	811	948	975	912
+Viral encephalitis		75	48	64	37	62
+Viral haemorrhagic fevers		0	0	0	0	0
+Viral meningitis		326	142	131	319	318
+West Nile fever		0	0	0	0	1
+Yellow fever		0	0	0	0	0
+Yersiniosis		9	13	18	17	30
+""		Confirmed	Probable	Possible	Not Specified	Total
+Bacterial meningitis (not otherwise specified)		11	3	1	0	15
+Brucellosis		5	0	0	0	5
+Campylobacter infection		3736	1	0	0	3737
+Carbapenem-resistant Enterobacteriaceae						
+infection (invasive)		31	0	0	0	31
+Chickenpox - hospitalised cases		135	6	26	0	167
+Chlamydia trachomatis infection	^	13707	1	0	0	13708
+Clostridium difficile infection		2255	0	0	0	2255
+COVID-19		35461	50	78	0	35589
+Creutzfeldt Jakob disease		7	10	2	0	19
+Cryptosporidiosis		863	7	0	0	870
+Cytomegalovirus infection (congenital)		16	1	0	0	17
+Dengue fever		20	0	0	0	20
+Giardiasis		323	1	0	0	324
+Gonorrhoea		6804	0	0	0	6804
+Haemophilus influenzae disease (invasive)		72	0	1	0	73
+Hepatitis A (acute)		45	1	0	0	46
+Hepatitis B (acute and chronic)		587	0	0	0	587
+Hepatitis C		535	0	0	0	535
+Hepatitis E		46	0	0	0	46
+Herpes simplex (genital)		1682	4	0	0	1686
+Human immunodeficiency virus infection		911	0	0	0	911
+Influenza		11816	1	6	0	11823
+Legionellosis		32	2	0	0	34
+Leptospirosis		43	1	0	0	44
+Listeriosis		18	0	0	0	18
+Lyme disease		6	0	0	0	6
+Lymphogranuloma venereum		37	0	0	0	37
+Malaria		87	1	1	0	89
+Meningococcal disease		41	0	1	0	42
+Mpox infection		13	2	0	0	15
+Mumps		39	19	75	0	133
+Noroviral infection	^	1363	0	0	0	1363
+Paratyphoid		12	0	0	0	12
+Pertussis		12	2	4	0	18
+Respiratory syncytial virus infection	^	7828	0	0	0	7828
+Rotavirus infection	^	560	0	0	0	560
+Salmonellosis		402	4	0	0	406
+Shigellosis		188	37	0	0	225
+Streptococcus group A infection (invasive)		505	27	0	0	532
+Streptococcus group B infection (invasive)		36	0	0	0	36
+Streptococcus pneumoniae infection (invasive)		433	0	0	0	433
+Syphilis		897	14	0	0	911
+Toxoplasmosis		20	0	0	0	20
+Trichomoniasis		70	0	0	0	70
+Tuberculosis		193	11	19	0	223
+Typhoid		15	0	0	0	15
+Verotoxigenic Escherichia coli infection		865	47	0	0	912
+Viral encephalitis		60	0	2	0	62
+Viral meningitis		313	3	1	1	318
+Yersiniosis		29	1	0	0	30
+""		Male	Female	Unknown	Total
+Bacterial meningitis (not otherwise specified)		6	9	0	15
+Brucellosis		4	1	0	5
+Campylobacter infection		2073	1663	1	3737
+Carbapenem-resistant Enterobacteriaceae infection (invasive)		24	7	0	31
+Chickenpox - hospitalised cases		90	77	0	167
+Chlamydia trachomatis infection	^	6953	6747	8	13708
+Clostridium difficile infection		946	1309	0	2255
+COVID-19		15633	19956	0	35589
+Creutzfeldt Jakob disease		9	10	0	19
+Cryptosporidiosis		437	433	0	870
+Cytomegalovirus infection (congenital)		9	8	0	17
+Dengue fever		11	9	0	20
+Giardiasis		215	109	0	324
+Gonorrhoea		5241	1561	2	6804
+Haemophilus influenzae disease (invasive)		34	38	1	73
+Hepatitis A (acute)		21	25	0	46
+Hepatitis B (acute and chronic)		389	196	2	587
+Hepatitis C		375	159	1	535
+Hepatitis E		26	20	0	46
+Herpes simplex (genital)		486	1194	6	1686
+Human immunodeficiency virus infection		594	317	0	911
+Influenza		5606	6216	1	11823
+Legionellosis		22	12	0	34
+Leptospirosis		33	11	0	44
+Listeriosis		7	11	0	18
+Lyme disease		6	0	0	6
+Lymphogranuloma venereum		37	0	0	37
+Malaria		66	23	0	89
+Meningococcal disease		20	22	0	42
+Mpox infection		15	0	0	15
+Mumps		61	72	0	133
+Noroviral infection	^	655	708	0	1363
+Paratyphoid		4	8	0	12
+Pertussis		10	8	0	18
+Respiratory syncytial virus infection	^	3955	3872	1	7828
+Rotavirus infection	^	293	267	0	560
+Salmonellosis		203	203	0	406
+Shigellosis		163	62	0	225
+Streptococcus group A infection (invasive)		303	228	1	532
+Streptococcus group B infection (invasive)		17	19	0	36
+Streptococcus pneumoniae infection (invasive)		242	191	0	433
+Syphilis		842	68	1	911
+Toxoplasmosis		10	10	0	20
+Trichomoniasis		3	67	0	70
+Tuberculosis		135	88	0	223
+Typhoid		11	4	0	15
+Verotoxigenic Escherichia coli infection		446	466	0	912
+Viral encephalitis		35	27	0	62
+Viral meningitis		168	150	0	318
+Yersiniosis		12	18	0	30
+""		0-4	5-9	10-14	15-19	20-24	25-34	35-44	45-54	55-64	65+	Unkn	
+""		yrs	yrs	yrs	yrs	yrs	yrs	yrs	yrs	yrs	yrs	own	Total
+Bacterial meningitis (not otherwise													
+specified)		9	0	2	0	0	0	0	1	2	1	0	15
+Brucellosis		0	0	0	0	0	1	1	0	2	1	0	5
+Campylobacter infection		545	199	141	208	217	419	402	416	413	776	1	3737
+Carbapenem-resistant													
+Enterobacteriaceae infection		0	0	1	1	0	1	2	1	7	18	0	31
+"(invasive)"													
+Chickenpox - hospitalised cases		75	30	9	7	3	13	9	4	3	14	0	167
+Chlamydia trachomatis infection	^	*	0	*	1449	5636	4513	1439	443	168	45	0	13708
+Clostridium difficile infection		38	17	16	25	36	73	132	177	296	1443	2	2255
+COVID-19		1697	259	248	479	953	3247	3954	3801	4001	16945	5	35589
+Creutzfeldt Jakob disease		0	0	0	0	0	0	1	0	1	17	0	19
+Cryptosporidiosis		328	136	47	61	44	102	105	22	11	14	0	870
+Cytomegalovirus infection													
+"(congenital)"		15	1	0	0	0	0	0	1	0	0	0	17
+Dengue fever		1	0	0	1	4	10	2	2	0	0	0	20
+Giardiasis		28	5	10	4	13	62	51	57	45	49	0	324
+Gonorrhoea		0	*	*	649	1930	2459	1225	356	143	40	0	6804
+Haemophilus influenzae disease													
+"(invasive)"		22	4	2	1	1	2	2	4	6	29	0	73
+Hepatitis A (acute)		1	1	12	3	7	9	6	4	1	2	0	46
+Hepatitis B (acute and chronic)		0	0	1	7	25	156	221	120	42	15	0	587
+Hepatitis C		0	1	2	1	15	93	159	128	93	43	0	535
+Hepatitis E		0	0	0	0	0	7	10	9	13	7	0	46
+Herpes simplex (genital)		*	*	*	169	443	596	245	119	65	42	1	1686
+Human immunodeficiency virus													
+infection		*	*	*	5	43	303	313	165	63	12	0	911
+Influenza		1534	992	533	640	561	1275	1262	842	916	3267	1	11823
+Legionellosis		0	0	0	0	0	1	4	4	7	18	0	34
+Leptospirosis		0	1	1	2	3	6	10	8	11	2	0	44
+Listeriosis		0	0	0	0	0	0	1	2	1	14	0	18
+Lyme disease		0	1	1	0	0	0	2	0	2	0	0	6
+Lymphogranuloma venereum		0	0	0	0	2	16	13	4	2	0	0	37
+Malaria		0	1	5	5	7	17	14	19	17	4	0	89
+Meningococcal disease		12	3	0	6	4	2	2	2	4	7	0	42
+Mpox infection		0	0	0	0	1	6	4	3	1	0	0	15
+Mumps		24	21	14	12	4	14	17	10	7	10	0	133
+Noroviral infection	^	404	55	35	17	11	37	39	48	88	629	0	1363
+Paratyphoid		1	1	0	1	1	4	0	2	1	1	0	12
+Pertussis		10	1	0	2	1	0	2	0	2	0	0	18
+Respiratory syncytial virus infection	^	5016	306	89	41	62	157	205	206	333	1413	0	7828
+Rotavirus infection	^	442	87	8	3	1	1	3	2	0	13	0	560
+Salmonellosis		62	18	13	17	28	64	48	45	42	68	1	406
+Shigellosis		20	10	2	2	15	73	43	25	20	14	1	225
+Streptococcus group A infection													
+"(invasive)"		113	80	18	12	9	27	50	44	39	140	0	532
+""	"0-4yrs"	"5-9yrs"	"10-14yrs"	"15-19yrs"	"20-24yrs"	"25-34yrs"	"35-44yrs"	"45-54yrs"	"55-64yrs"	"65+yrs"	"Unknown"	Total	
+"Streptococcus group B infection(invasive)"		36	0	0	0	0	0	0	0	0	0	0	36
+"Streptococcus pneumoniae infection(invasive)"		41	24	5	4	4	12	31	47	56	209	0	433
+Syphilis		0	0	0	6	73	361	285	111	67	8	0	911
+Toxoplasmosis		0	0	0	0	1	4	5	3	3	4	0	20
+Trichomoniasis		0	0	0	10	15	19	22	3	1	0	0	70
+Tuberculosis		2	1	5	6	22	52	42	34	19	40	0	223
+Typhoid		1	2	0	2	2	6	2	0	0	0	0	15
+"Verotoxigenic Escherichia coliinfection"		264	61	36	26	41	61	51	63	69	240	0	912
+Viral encephalitis		10	1	2	0	3	7	9	2	11	17	0	62
+Viral meningitis		188	6	1	16	7	37	34	6	12	11	0	318

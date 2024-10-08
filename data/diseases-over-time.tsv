@@ -1,0 +1,726 @@
+disease	year	count
+Acute anterior poliomyelitis	2015	0
+Acute anterior poliomyelitis	2016	0
+Acute anterior poliomyelitis	2017	0
+Acute anterior poliomyelitis	2018	0
+Acute anterior poliomyelitis	2019	0
+Acute anterior poliomyelitis	2020	0
+Acute anterior poliomyelitis	2021	0
+Acute anterior poliomyelitis	2022	0
+Acute anterior poliomyelitis	2023	0
+Anthrax	2015	0
+Anthrax	2016	0
+Anthrax	2017	0
+Anthrax	2018	0
+Anthrax	2019	0
+Anthrax	2020	0
+Anthrax	2021	0
+Anthrax	2022	0
+Anthrax	2023	0
+Bacillus cereus food-borne infection or intoxication	2015	1
+Bacillus cereus food-borne infection or intoxication	2016	0
+Bacillus cereus food-borne infection or intoxication	2017	1
+Bacillus cereus food-borne infection or intoxication	2018	0
+Bacillus cereus food-borne infection or intoxication	2019	2
+Bacillus cereus food-borne infection or intoxication	2020	2
+Bacillus cereus food-borne infection or intoxication	2021	0
+Bacillus cereus food-borne infection or intoxication	2022	6
+Bacillus cereus food-borne infection or intoxication	2023	0
+Bacterial meningitis (not otherwise specified)	2015	32
+Bacterial meningitis (not otherwise specified)	2016	15
+Bacterial meningitis (not otherwise specified)	2017	25
+Bacterial meningitis (not otherwise specified)	2018	36
+Bacterial meningitis (not otherwise specified)	2019	38
+Bacterial meningitis (not otherwise specified)	2020	36
+Bacterial meningitis (not otherwise specified)	2021	24
+Bacterial meningitis (not otherwise specified)	2022	22
+Bacterial meningitis (not otherwise specified)	2023	15
+Botulism	2015	0
+Botulism	2016	0
+Botulism	2017	0
+Botulism	2018	0
+Botulism	2019	0
+Botulism	2020	0
+Botulism	2021	0
+Botulism	2022	4
+Botulism	2023	0
+Brucellosis	2015	0
+Brucellosis	2016	2
+Brucellosis	2017	2
+Brucellosis	2018	0
+Brucellosis	2019	0
+Brucellosis	2020	0
+Brucellosis	2021	0
+Brucellosis	2022	2
+Brucellosis	2023	5
+COVID-19	2015	0
+COVID-19	2016	0
+COVID-19	2017	0
+COVID-19	2018	0
+COVID-19	2019	0
+COVID-19	2020	204692
+COVID-19	2021	1344922
+COVID-19	2022	1839101
+COVID-19	2023	35590
+Campylobacter infection	2015	2447
+Campylobacter infection	2016	2511
+Campylobacter infection	2017	2785
+Campylobacter infection	2018	6058
+Campylobacter infection	2019	5553
+Campylobacter infection	2020	4860
+Campylobacter infection	2021	6290
+Campylobacter infection	2022	7232
+Campylobacter infection	2023	3737
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2015	8
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2016	14
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2017	14
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2018	32
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2019	34
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2020	18
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2021	20
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2022	50
+Carbapenem-resistant Enterobacteriaceae infection (invasive)	2023	31
+Chancroid	2015	0
+Chancroid	2016	0
+Chancroid	2017	0
+Chancroid	2018	0
+Chancroid	2019	0
+Chancroid	2020	0
+Chancroid	2021	0
+Chancroid	2022	0
+Chancroid	2023	0
+Chickenpox - hospitalised cases	2015	69
+Chickenpox - hospitalised cases	2016	106
+Chickenpox - hospitalised cases	2017	105
+Chickenpox - hospitalised cases	2018	198
+Chickenpox - hospitalised cases	2019	186
+Chickenpox - hospitalised cases	2020	50
+Chickenpox - hospitalised cases	2021	46
+Chickenpox - hospitalised cases	2022	151
+Chickenpox - hospitalised cases	2023	167
+Chikungunya disease	2015	1
+Chikungunya disease	2016	1
+Chikungunya disease	2017	0
+Chikungunya disease	2018	0
+Chikungunya disease	2019	2
+Chikungunya disease	2020	0
+Chikungunya disease	2021	0
+Chikungunya disease	2022	0
+Chikungunya disease	2023	0
+Chlamydia trachomatis infection	2015	6776
+Chlamydia trachomatis infection	2016	6875
+Chlamydia trachomatis infection	2017	7402
+Chlamydia trachomatis infection	2018	15858
+Chlamydia trachomatis infection	2019	18331
+Chlamydia trachomatis infection	2020	13888
+Chlamydia trachomatis infection	2021	14421
+Chlamydia trachomatis infection	2022	21883
+Chlamydia trachomatis infection	2023	13708
+Cholera	2015	0
+Cholera	2016	0
+Cholera	2017	0
+Cholera	2018	0
+Cholera	2019	0
+Cholera	2020	0
+Cholera	2021	0
+Cholera	2022	0
+Cholera	2023	0
+Clostridium difficile infection	2015	1943
+Clostridium difficile infection	2016	1871
+Clostridium difficile infection	2017	1763
+Clostridium difficile infection	2018	4106
+Clostridium difficile infection	2019	4582
+Clostridium difficile infection	2020	3453
+Clostridium difficile infection	2021	3527
+Clostridium difficile infection	2022	4429
+Clostridium difficile infection	2023	2255
+Clostridium perfringens (type A) food-borne disease	2015	1
+Clostridium perfringens (type A) food-borne disease	2016	0
+Clostridium perfringens (type A) food-borne disease	2017	1
+Clostridium perfringens (type A) food-borne disease	2018	0
+Clostridium perfringens (type A) food-borne disease	2019	2
+Clostridium perfringens (type A) food-borne disease	2020	6
+Clostridium perfringens (type A) food-borne disease	2021	0
+Clostridium perfringens (type A) food-borne disease	2022	6
+Clostridium perfringens (type A) food-borne disease	2023	1
+Creutzfeldt Jakob disease	2015	5
+Creutzfeldt Jakob disease	2016	5
+Creutzfeldt Jakob disease	2017	9
+Creutzfeldt Jakob disease	2018	18
+Creutzfeldt Jakob disease	2019	10
+Creutzfeldt Jakob disease	2020	12
+Creutzfeldt Jakob disease	2021	20
+Creutzfeldt Jakob disease	2022	12
+Creutzfeldt Jakob disease	2023	19
+Creutzfeldt Jakob disease (variant)	2015	0
+Creutzfeldt Jakob disease (variant)	2016	0
+Creutzfeldt Jakob disease (variant)	2017	0
+Creutzfeldt Jakob disease (variant)	2018	0
+Creutzfeldt Jakob disease (variant)	2019	0
+Creutzfeldt Jakob disease (variant)	2020	0
+Creutzfeldt Jakob disease (variant)	2021	0
+Creutzfeldt Jakob disease (variant)	2022	0
+Creutzfeldt Jakob disease (variant)	2023	0
+Cryptosporidiosis	2015	439
+Cryptosporidiosis	2016	561
+Cryptosporidiosis	2017	589
+Cryptosporidiosis	2018	1258
+Cryptosporidiosis	2019	1210
+Cryptosporidiosis	2020	1024
+Cryptosporidiosis	2021	1690
+Cryptosporidiosis	2022	1132
+Cryptosporidiosis	2023	870
+Cytomegalovirus infection (congenital)	2015	15
+Cytomegalovirus infection (congenital)	2016	20
+Cytomegalovirus infection (congenital)	2017	10
+Cytomegalovirus infection (congenital)	2018	34
+Cytomegalovirus infection (congenital)	2019	24
+Cytomegalovirus infection (congenital)	2020	46
+Cytomegalovirus infection (congenital)	2021	34
+Cytomegalovirus infection (congenital)	2022	48
+Cytomegalovirus infection (congenital)	2023	17
+Dengue fever	2015	8
+Dengue fever	2016	18
+Dengue fever	2017	10
+Dengue fever	2018	34
+Dengue fever	2019	36
+Dengue fever	2020	6
+Dengue fever	2021	4
+Dengue fever	2022	18
+Dengue fever	2023	20
+Diphtheria	2015	1
+Diphtheria	2016	1
+Diphtheria	2017	0
+Diphtheria	2018	0
+Diphtheria	2019	0
+Diphtheria	2020	0
+Diphtheria	2021	0
+Diphtheria	2022	0
+Diphtheria	2023	0
+Echinococcosis	2015	0
+Echinococcosis	2016	2
+Echinococcosis	2017	0
+Echinococcosis	2018	4
+Echinococcosis	2019	0
+Echinococcosis	2020	0
+Echinococcosis	2021	2
+Echinococcosis	2022	2
+Echinococcosis	2023	0
+Giardiasis	2015	145
+Giardiasis	2016	202
+Giardiasis	2017	240
+Giardiasis	2018	540
+Giardiasis	2019	504
+Giardiasis	2020	326
+Giardiasis	2021	320
+Giardiasis	2022	522
+Giardiasis	2023	324
+Gonorrhoea	2015	1293
+Gonorrhoea	2016	1954
+Gonorrhoea	2017	2249
+Gonorrhoea	2018	4804
+Gonorrhoea	2019	5604
+Gonorrhoea	2020	4126
+Gonorrhoea	2021	4191
+Gonorrhoea	2022	8136
+Gonorrhoea	2023	6804
+Granuloma inguinale	2015	0
+Granuloma inguinale	2016	0
+Granuloma inguinale	2017	0
+Granuloma inguinale	2018	0
+Granuloma inguinale	2019	0
+Granuloma inguinale	2020	0
+Granuloma inguinale	2021	0
+Granuloma inguinale	2022	0
+Granuloma inguinale	2023	0
+Haemophilus influenzae disease (invasive)	2015	52
+Haemophilus influenzae disease (invasive)	2016	58
+Haemophilus influenzae disease (invasive)	2017	45
+Haemophilus influenzae disease (invasive)	2018	116
+Haemophilus influenzae disease (invasive)	2019	126
+Haemophilus influenzae disease (invasive)	2020	62
+Haemophilus influenzae disease (invasive)	2021	36
+Haemophilus influenzae disease (invasive)	2022	138
+Haemophilus influenzae disease (invasive)	2023	73
+Hepatitis A (acute)	2015	36
+Hepatitis A (acute)	2016	38
+Hepatitis A (acute)	2017	66
+Hepatitis A (acute)	2018	70
+Hepatitis A (acute)	2019	104
+Hepatitis A (acute)	2020	74
+Hepatitis A (acute)	2021	164
+Hepatitis A (acute)	2022	132
+Hepatitis A (acute)	2023	46
+Hepatitis B (acute and chronic)	2015	546
+Hepatitis B (acute and chronic)	2016	486
+Hepatitis B (acute and chronic)	2017	523
+Hepatitis B (acute and chronic)	2018	990
+Hepatitis B (acute and chronic)	2019	1049
+Hepatitis B (acute and chronic)	2020	675
+Hepatitis B (acute and chronic)	2021	848
+Hepatitis B (acute and chronic)	2022	1026
+Hepatitis B (acute and chronic)	2023	587
+Hepatitis C	2015	669
+Hepatitis C	2016	636
+Hepatitis C	2017	607
+Hepatitis C	2018	1166
+Hepatitis C	2019	942
+Hepatitis C	2020	633
+Hepatitis C	2021	828
+Hepatitis C	2022	963
+Hepatitis C	2023	535
+Hepatitis E	2015	3
+Hepatitis E	2016	90
+Hepatitis E	2017	54
+Hepatitis E	2018	148
+Hepatitis E	2019	146
+Hepatitis E	2020	152
+Hepatitis E	2021	116
+Hepatitis E	2022	78
+Hepatitis E	2023	46
+Herpes simplex (genital)	2015	1274
+Herpes simplex (genital)	2016	1367
+Herpes simplex (genital)	2017	1552
+Herpes simplex (genital)	2018	3181
+Herpes simplex (genital)	2019	3380
+Herpes simplex (genital)	2020	2266
+Herpes simplex (genital)	2021	2610
+Herpes simplex (genital)	2022	3232
+Herpes simplex (genital)	2023	1686
+Herpes simplex (neonatal)	2015	0
+Herpes simplex (neonatal)	2016	0
+Herpes simplex (neonatal)	2017	0
+Herpes simplex (neonatal)	2018	0
+Herpes simplex (neonatal)	2019	6
+Herpes simplex (neonatal)	2020	8
+Herpes simplex (neonatal)	2021	8
+Herpes simplex (neonatal)	2022	2
+Herpes simplex (neonatal)	2023	1
+Human immunodeficiency virus infection	2015	482
+Human immunodeficiency virus infection	2016	502
+Human immunodeficiency virus infection	2017	488
+Human immunodeficiency virus infection	2018	1044
+Human immunodeficiency virus infection	2019	1056
+Human immunodeficiency virus infection	2020	876
+Human immunodeficiency virus infection	2021	796
+Human immunodeficiency virus infection	2022	1768
+Human immunodeficiency virus infection	2023	911
+Influenza	2015	2679
+Influenza	2016	4764
+Influenza	2017	3369
+Influenza	2018	23410
+Influenza	2019	22512
+Influenza	2020	15551
+Influenza	2021	78
+Influenza	2022	20851
+Influenza	2023	11823
+Legionellosis	2015	12
+Legionellosis	2016	10
+Legionellosis	2017	25
+Legionellosis	2018	52
+Legionellosis	2019	48
+Legionellosis	2020	28
+Legionellosis	2021	14
+Legionellosis	2022	52
+Legionellosis	2023	34
+Leprosy	2015	0
+Leprosy	2016	1
+Leprosy	2017	0
+Leprosy	2018	0
+Leprosy	2019	0
+Leprosy	2020	2
+Leprosy	2021	2
+Leprosy	2022	2
+Leprosy	2023	0
+Leptospirosis	2015	16
+Leptospirosis	2016	26
+Leptospirosis	2017	20
+Leptospirosis	2018	38
+Leptospirosis	2019	50
+Leptospirosis	2020	52
+Leptospirosis	2021	32
+Leptospirosis	2022	26
+Leptospirosis	2023	44
+Listeriosis	2015	19
+Listeriosis	2016	13
+Listeriosis	2017	14
+Listeriosis	2018	44
+Listeriosis	2019	36
+Listeriosis	2020	12
+Listeriosis	2021	30
+Listeriosis	2022	36
+Listeriosis	2023	18
+Lyme disease	2015	11
+Lyme disease	2016	21
+Lyme disease	2017	12
+Lyme disease	2018	26
+Lyme disease	2019	12
+Lyme disease	2020	26
+Lyme disease	2021	8
+Lyme disease	2022	8
+Lyme disease	2023	6
+Lymphogranuloma venereum	2015	20
+Lymphogranuloma venereum	2016	48
+Lymphogranuloma venereum	2017	20
+Lymphogranuloma venereum	2018	56
+Lymphogranuloma venereum	2019	79
+Lymphogranuloma venereum	2020	26
+Lymphogranuloma venereum	2021	30
+Lymphogranuloma venereum	2022	48
+Lymphogranuloma venereum	2023	37
+Malaria	2015	81
+Malaria	2016	88
+Malaria	2017	77
+Malaria	2018	118
+Malaria	2019	162
+Malaria	2020	30
+Malaria	2021	78
+Malaria	2022	106
+Malaria	2023	89
+Measles	2015	2
+Measles	2016	43
+Measles	2017	25
+Measles	2018	152
+Measles	2019	128
+Measles	2020	10
+Measles	2021	0
+Measles	2022	4
+Measles	2023	4
+Meningococcal disease	2015	74
+Meningococcal disease	2016	87
+Meningococcal disease	2017	76
+Meningococcal disease	2018	178
+Meningococcal disease	2019	142
+Meningococcal disease	2020	44
+Meningococcal disease	2021	20
+Meningococcal disease	2022	62
+Meningococcal disease	2023	42
+Mpox infection	2019	0
+Mpox infection	2020	0
+Mpox infection	2021	0
+Mpox infection	2022	229
+Mpox infection	2023	15
+Mumps	2015	2012
+Mumps	2016	491
+Mumps	2017	291
+Mumps	2018	1146
+Mumps	2019	5522
+Mumps	2020	5838
+Mumps	2021	218
+Mumps	2022	189
+Mumps	2023	133
+Noroviral infection	2015	1262
+Noroviral infection	2016	1829
+Noroviral infection	2017	1328
+Noroviral infection	2018	2492
+Noroviral infection	2019	2725
+Noroviral infection	2020	1088
+Noroviral infection	2021	876
+Noroviral infection	2022	1980
+Noroviral infection	2023	1363
+Outbreak	2015	0
+Outbreak	2016	0
+Outbreak	2017	0
+Outbreak	2018	0
+Outbreak	2019	0
+Outbreak	2020	0
+Outbreak	2021	0
+Outbreak	2022	0
+Outbreak	2023	0
+Paratyphoid	2015	1
+Paratyphoid	2016	7
+Paratyphoid	2017	6
+Paratyphoid	2018	10
+Paratyphoid	2019	2
+Paratyphoid	2020	2
+Paratyphoid	2021	0
+Paratyphoid	2022	15
+Paratyphoid	2023	12
+Pertussis	2015	117
+Pertussis	2016	213
+Pertussis	2017	263
+Pertussis	2018	234
+Pertussis	2019	330
+Pertussis	2020	132
+Pertussis	2021	10
+Pertussis	2022	14
+Pertussis	2023	18
+Plague	2015	0
+Plague	2016	0
+Plague	2017	0
+Plague	2018	0
+Plague	2019	0
+Plague	2020	0
+Plague	2021	0
+Plague	2022	0
+Plague	2023	0
+Q fever	2015	4
+Q fever	2016	6
+Q fever	2017	2
+Q fever	2018	0
+Q fever	2019	4
+Q fever	2020	4
+Q fever	2021	0
+Q fever	2022	0
+Q fever	2023	4
+Rabies	2015	0
+Rabies	2016	0
+Rabies	2017	0
+Rabies	2018	0
+Rabies	2019	0
+Rabies	2020	0
+Rabies	2021	0
+Rabies	2022	0
+Rabies	2023	0
+Respiratory syncytial virus infection	2015	2200
+Respiratory syncytial virus infection	2016	2690
+Respiratory syncytial virus infection	2017	2378
+Respiratory syncytial virus infection	2018	7190
+Respiratory syncytial virus infection	2019	8315
+Respiratory syncytial virus infection	2020	3892
+Respiratory syncytial virus infection	2021	8751
+Respiratory syncytial virus infection	2022	14256
+Respiratory syncytial virus infection	2023	7828
+Rotavirus infection	2015	4156
+Rotavirus infection	2016	2371
+Rotavirus infection	2017	2305
+Rotavirus infection	2018	1270
+Rotavirus infection	2019	1926
+Rotavirus infection	2020	316
+Rotavirus infection	2021	332
+Rotavirus infection	2022	934
+Rotavirus infection	2023	560
+Rubella	2015	2
+Rubella	2016	1
+Rubella	2017	0
+Rubella	2018	0
+Rubella	2019	0
+Rubella	2020	3
+Rubella	2021	0
+Rubella	2022	0
+Rubella	2023	0
+Salmonellosis	2015	269
+Salmonellosis	2016	302
+Salmonellosis	2017	414
+Salmonellosis	2018	726
+Salmonellosis	2019	710
+Salmonellosis	2020	438
+Salmonellosis	2021	346
+Salmonellosis	2022	684
+Salmonellosis	2023	406
+Severe Acute Respiratory Syndrome (SARS)	2015	0
+Severe Acute Respiratory Syndrome (SARS)	2016	0
+Severe Acute Respiratory Syndrome (SARS)	2017	0
+Severe Acute Respiratory Syndrome (SARS)	2018	0
+Severe Acute Respiratory Syndrome (SARS)	2019	0
+Severe Acute Respiratory Syndrome (SARS)	2020	0
+Severe Acute Respiratory Syndrome (SARS)	2021	0
+Severe Acute Respiratory Syndrome (SARS)	2022	0
+Severe Acute Respiratory Syndrome (SARS)	2023	0
+Shigellosis	2015	87
+Shigellosis	2016	83
+Shigellosis	2017	107
+Shigellosis	2018	222
+Shigellosis	2019	341
+Shigellosis	2020	148
+Shigellosis	2021	140
+Shigellosis	2022	314
+Shigellosis	2023	225
+Smallpox	2015	0
+Smallpox	2016	0
+Smallpox	2017	0
+Smallpox	2018	0
+Smallpox	2019	0
+Smallpox	2020	0
+Smallpox	2021	0
+Smallpox	2022	0
+Smallpox	2023	0
+Staphylococcal food poisoning	2015	0
+Staphylococcal food poisoning	2016	0
+Staphylococcal food poisoning	2017	3
+Staphylococcal food poisoning	2018	0
+Staphylococcal food poisoning	2019	0
+Staphylococcal food poisoning	2020	0
+Staphylococcal food poisoning	2021	0
+Staphylococcal food poisoning	2022	0
+Staphylococcal food poisoning	2023	0
+Streptococcus group A infection (invasive)	2015	107
+Streptococcus group A infection (invasive)	2016	148
+Streptococcus group A infection (invasive)	2017	130
+Streptococcus group A infection (invasive)	2018	272
+Streptococcus group A infection (invasive)	2019	216
+Streptococcus group A infection (invasive)	2020	86
+Streptococcus group A infection (invasive)	2021	68
+Streptococcus group A infection (invasive)	2022	198
+Streptococcus group A infection (invasive)	2023	532
+Streptococcus group B infection (invasive)	2015	69
+Streptococcus group B infection (invasive)	2016	65
+Streptococcus group B infection (invasive)	2017	75
+Streptococcus group B infection (invasive)	2018	102
+Streptococcus group B infection (invasive)	2019	118
+Streptococcus group B infection (invasive)	2020	68
+Streptococcus group B infection (invasive)	2021	85
+Streptococcus group B infection (invasive)	2022	60
+Streptococcus group B infection (invasive)	2023	36
+Streptococcus pneumoniae infection (invasive)	2015	549
+Streptococcus pneumoniae infection (invasive)	2016	381
+Streptococcus pneumoniae infection (invasive)	2017	415
+Streptococcus pneumoniae infection (invasive)	2018	1020
+Streptococcus pneumoniae infection (invasive)	2019	840
+Streptococcus pneumoniae infection (invasive)	2020	498
+Streptococcus pneumoniae infection (invasive)	2021	354
+Streptococcus pneumoniae infection (invasive)	2022	750
+Streptococcus pneumoniae infection (invasive)	2023	433
+Syphilis	2015	420
+Syphilis	2016	445
+Syphilis	2017	411
+Syphilis	2018	1012
+Syphilis	2019	1571
+Syphilis	2020	1209
+Syphilis	2021	1430
+Syphilis	2022	1780
+Syphilis	2023	911
+Tetanus	2015	1
+Tetanus	2016	0
+Tetanus	2017	1
+Tetanus	2018	0
+Tetanus	2019	0
+Tetanus	2020	0
+Tetanus	2021	0
+Tetanus	2022	0
+Tetanus	2023	0
+Toxoplasmosis	2015	25
+Toxoplasmosis	2016	24
+Toxoplasmosis	2017	20
+Toxoplasmosis	2018	64
+Toxoplasmosis	2019	94
+Toxoplasmosis	2020	42
+Toxoplasmosis	2021	38
+Toxoplasmosis	2022	32
+Toxoplasmosis	2023	20
+Trichinosis	2015	0
+Trichinosis	2016	0
+Trichinosis	2017	0
+Trichinosis	2018	0
+Trichinosis	2019	0
+Trichinosis	2020	0
+Trichinosis	2021	0
+Trichinosis	2022	0
+Trichinosis	2023	0
+Trichomoniasis	2015	56
+Trichomoniasis	2016	79
+Trichomoniasis	2017	67
+Trichomoniasis	2018	128
+Trichomoniasis	2019	127
+Trichomoniasis	2020	77
+Trichomoniasis	2021	56
+Trichomoniasis	2022	141
+Trichomoniasis	2023	70
+Tuberculosis	2015	283
+Tuberculosis	2016	315
+Tuberculosis	2017	300
+Tuberculosis	2018	613
+Tuberculosis	2019	513
+Tuberculosis	2020	466
+Tuberculosis	2021	413
+Tuberculosis	2022	428
+Tuberculosis	2023	223
+Tularemia	2015	0
+Tularemia	2016	0
+Tularemia	2017	0
+Tularemia	2018	0
+Tularemia	2019	0
+Tularemia	2020	0
+Tularemia	2021	0
+Tularemia	2022	0
+Tularemia	2023	1
+Typhoid	2015	9
+Typhoid	2016	10
+Typhoid	2017	16
+Typhoid	2018	22
+Typhoid	2019	54
+Typhoid	2020	4
+Typhoid	2021	18
+Typhoid	2022	62
+Typhoid	2023	15
+Typhus	2015	0
+Typhus	2016	0
+Typhus	2017	0
+Typhus	2018	0
+Typhus	2019	0
+Typhus	2020	0
+Typhus	2021	0
+Typhus	2022	0
+Typhus	2023	1
+Verotoxigenic Escherichia coli infection	2015	730
+Verotoxigenic Escherichia coli infection	2016	839
+Verotoxigenic Escherichia coli infection	2017	923
+Verotoxigenic Escherichia coli infection	2018	2226
+Verotoxigenic Escherichia coli infection	2019	1740
+Verotoxigenic Escherichia coli infection	2020	1633
+Verotoxigenic Escherichia coli infection	2021	1910
+Verotoxigenic Escherichia coli infection	2022	1981
+Verotoxigenic Escherichia coli infection	2023	912
+Viral encephalitis	2015	47
+Viral encephalitis	2016	61
+Viral encephalitis	2017	71
+Viral encephalitis	2018	168
+Viral encephalitis	2019	150
+Viral encephalitis	2020	96
+Viral encephalitis	2021	128
+Viral encephalitis	2022	74
+Viral encephalitis	2023	62
+Viral haemorrhagic fevers	2015	0
+Viral haemorrhagic fevers	2016	0
+Viral haemorrhagic fevers	2017	0
+Viral haemorrhagic fevers	2018	0
+Viral haemorrhagic fevers	2019	0
+Viral haemorrhagic fevers	2020	0
+Viral haemorrhagic fevers	2021	0
+Viral haemorrhagic fevers	2022	0
+Viral haemorrhagic fevers	2023	0
+Viral meningitis	2015	261
+Viral meningitis	2016	299
+Viral meningitis	2017	259
+Viral meningitis	2018	672
+Viral meningitis	2019	652
+Viral meningitis	2020	284
+Viral meningitis	2021	261
+Viral meningitis	2022	638
+Viral meningitis	2023	318
+West Nile fever	2015	0
+West Nile fever	2016	0
+West Nile fever	2017	0
+West Nile fever	2018	0
+West Nile fever	2019	0
+West Nile fever	2020	0
+West Nile fever	2021	0
+West Nile fever	2022	0
+West Nile fever	2023	1
+Yellow fever	2015	0
+Yellow fever	2016	0
+Yellow fever	2017	0
+Yellow fever	2018	0
+Yellow fever	2019	0
+Yellow fever	2020	0
+Yellow fever	2021	0
+Yellow fever	2022	0
+Yellow fever	2023	0
+Yersiniosis	2015	13
+Yersiniosis	2016	3
+Yersiniosis	2017	6
+Yersiniosis	2018	16
+Yersiniosis	2019	18
+Yersiniosis	2020	26
+Yersiniosis	2021	36
+Yersiniosis	2022	34
+Yersiniosis	2023	30
+Zika virus infection	2015	NA
+Zika virus infection	2016	13
+Zika virus infection	2017	4
+Zika virus infection	2018	0
+mpox	2018	0
+mpox	2019	0
+mpox	2020	0
+mpox	2021	0
+mpox	2022	229
