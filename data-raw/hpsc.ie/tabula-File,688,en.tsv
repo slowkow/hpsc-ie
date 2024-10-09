@@ -1,0 +1,123 @@
+Infectious Disease	1982	1983	1984	1985	1986	1987	1988	1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000	2001
+Acute Anterior Poliomyelitis	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acute Encephalitis	4	7	10	4	7	1	0	0	0	0	1	2	1	0	7	3	0	1	1	5
+Acute Viral Meningitis	54	191	163	120	161	81	101	52	300	86	104	39	90	74	77	32	32	27	98	161
+Anthrax	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacillary Dysentery (Shigellosis)	143	212	273	146	347	68	422	143	277	736	283	219	203	97	59	41	120	116	30	28
+Bacterial Meningitis	124	141	192	100	147	111	128	115	131	155	225	203	241	382	410	508	491	587	586	396
+"(including meningococcal septicaemia)*"																				
+Brucellosis	159	126	126	115	53	38	22	20	15	27	26	28	14	6	10	7	15	19	15	14
+Cholera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+Creutzfeldt Jakob Disease**	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	3	6	1	2	6
+vCreutzfeldt Jakob Disease**	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	0	0	1	0	0
+Diphtheria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Food Poisoning	68	83	164	98	195	88	43	64	157	83	46	97	62	100	276	448	1235	1673	1554	1219
+"(bacterial other than salmonella)"																				
+Gastroenteritis	2404	2987	3242	3317	3815	3900	3241	3410	3758	4132	3410	3832	3043	3234	2997	2968	3483	2917	2796	2057
+"(when contracted by children under 2 years)"																				
+Infectious Mononucleosis	55	196	233	214	145	186	286	211	208	188	208	206	183	156	216	212	217	198	151	150
+Infectious Parotitis (Mumps)	NA	NA	NA	NA	NA	NA	271	709	48	53	43	44	33	27	422	285	57	38	52	40
+Influenzal Pneumonia	6	76	93	37	153	53	73	42	94	139	48	55	6	31	54	29	4	15	20	2
+Legionnaires Disease	2	2	1	0	0	0	4	2	1	0	2	0	1	1	2	6	2	2	9	3
+Leptospirosis	4	14	8	5	4	6	3	5	5	4	9	5	2	1	6	8	12	6	7	9
+Malaria	33	17	12	32	41	28	30	23	12	11	15	9	12	9	14	8	17	17	19	11
+Measles	1897	6180	5725	9903	451	201	936	1248	556	135	179	4328	1233	235	228	185	204	147	1603	241
+Ornithosis	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	3
+Plague	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rabies	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rubella	166	2395	2060	668	799	444	1156	440	258	206	155	179	206	100	602	113	83	62	97	57
+Salmonellosis	175	205	287	142	265	249	271	427	473	484	270	295	338	571	678	958	1261	962	640	428
+"(other than typhoid or paratyphoid)"																				
+Smallpox	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tetanus	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	1	3
+Tuberculosis***	975	924	837	804	602	581	575	638	613	640	604	598	524	458	434	416	424	469	395	409*!
+Typhoid & Paratyphoid	2	4	3	1	1	0	2	0	0	4	3	1	1	4	4	0	3	0	1	4
+Typhus	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+Viral Haemorrhagic Disease	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Viral Hepatitis Type A	184	237	255	201	126	212	261	564	538	205	430	369	94	133	313	422	218	323	309	112
+Viral Hepatitis Type B	26	54	33	57	55	63	32	20	11	15	13	11	20	11	11	31	155	160	187	342
+Viral Hepatitis Unspecified	1066	1192	1022	731	544	381	253	371	398	152	240	190	60	66	67	122	147	125	65	90
+Whooping Cough	1073	1728	3061	3689	1482	1717	1170	2217	803	843	860	869	353	436	261	459	252	179	152	142
+Yellow Fever	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+""									
+Infectious Disease	ERHA	MHB	MWHB	NEHB	NWHB	SEHB	SHB	WHB	Total
+""									
+Acute Encephalitis	1	0	0	2	0	0	1	1	5
+Acute Viral Meningitis	93	13	9	11	5	12	13	5	161
+Bacillary Dysentery (Shigellosis)	14	0	1	2	5	1	3	1	27
+Bacterial Meningitis (including meningococcal septicaemia)	139	26	31	28	20	49	69	34	396
+Brucellosis	0	0	7	2	2	3	0	0	14
+Cholera	**	**	**	**	**	**	**	**	1
+Creutzfeldt Jakob Disease	3	0	0	1	0	0	1	1	6
+Food Poisoning (bacterial other than salmonella)	437	40	22	62	87	176	214	181	1219
+Gastroenteritis (children < 2 years of age)	819	49	30	94	74	255	402	334	2057
+Infectious Mononucleosis	48	0	53	10	0	9	24	6	150
+Infectious Parotitis (Mumps)	22	1	2	2	4	5	2	2	40
+Influenzal Pneumonia	**	**	**	**	**	**	**	**	2
+Legionnaires Disease	**	**	**	**	**	**	**	**	3
+Leptospirosis	8	0	0	0	0	0	1	0	9
+Malaria	10	0	0	1	0	0	0	0	11
+Measles	184	13	4	10	1	4	17	8	241
+Ornithosis	**	**	**	**	**	**	**	**	3
+Rubella	45	2	1	0	2	1	1	5	57
+Salmonellosis (other than typhoid or paratyphoid)	159	33	10	37	24	46	85	34	428
+Tetanus	**	**	**	**	**	**	**	**	3
+Tuberculosis***	186	9	34	38	12	20	76	34	409*!
+Typhoid & Paratyphoid	**	**	**	**	**	**	**	**	4
+Viral Hepatitis Type A	66	3	3	11	3	19	1	6	112
+Viral Hepatitis Type B	98	14	23	9	8	84	98	8	342
+Viral Hepatitis Unspecified	42	2	5	1	5	28	6	1	90
+Whooping Cough	75	1	1	7	0	25	23	10	142
+Infectious Disease	0-4	5-9	10-14	15-19	20-24	25-34	35-44	45-54	55-64	65+	Unknown	Total
+Acute Encephalitis	4	0	1	0	0	0	0	0	0	0	0	5
+Acute Viral Meningitis	44	33	34	13	7	14	9	3	0	1	3	161
+Bacillary Dysentery (Shigellosis)	6	0	0	1	3	6	6	2	1	3	0	28
+Bacterial Meningitis (including meningococcal septicaemia)	206	45	34	38	21	24	5	10	4	9	0	396
+Brucellosis	0	0	0	0	1	5	3	2	2	0	1	14
+Cholera	0	0	0	0	0	0	0	0	0	0	1	1
+Creutzfeldt Jakob Disease	0	0	0	0	0	0	1	0	1	4	0	6
+Food Poisoning (bacterial other than salmonella)	371	71	34	47	102	200	122	82	49	98	43	1219
+Gastroenteritis (children < 2 years of age)	2042	0	0	0	0	0	0	0	0	0	15	2057
+Infectious Mononucleosis	7	3	22	61	21	20	7	4	1	0	4	150
+Infectious Parotitis (Mumps)	14	6	8	3	3	4	1	0	0	0	1	40
+Influenzal Pneumonia	1	0	0	0	0	1	0	0	0	0	0	2
+Legionnaires Disease	0	0	0	0	0	0	1	1	1	0	0	3
+Leptospirosis	0	0	0	1	4	0	4	0	0	0	0	9
+Malaria	0	0	0	0	2	3	0	2	4	0	0	11
+Measles	205	21	9	2	1	0	0	0	0	0	3	241
+Ornithosis	0	0	0	1	0	1	0	1	0	0	0	3
+Rubella	48	4	1	0	2	0	0	0	0	0	2	57
+Salmonellosis (other than typhoid or paratyphoid)	89	37	21	24	48	64	47	28	28	34	8	428
+Tetanus	0	0	0	0	0	1	0	0	1	1	0	3
+Tuberculosis***	1	7	6	29	32	75	46	44	48	99	22	409*!
+Typhoid & Paratyphoid	3	0	0	0	0	0	0	0	0	1	0	4
+Viral Hepatitis Type A	9	26	19	5	10	20	10	6	3	4	0	112
+Viral Hepatitis Type B	3	6	8	19	41	162	65	15	4	1	18	342
+Viral Hepatitis Unspecified	2	0	3	4	12	40	11	11	2	3	2	90
+Whooping Cough	102	28	8	0	2	0	1	0	0	0	1	142
+Infectious Disease	Male	Female	Not Known	Total
+Acute Encephalitis	3	2	0	5
+Acute Viral Meningitis	93	65	3	161
+Bacillary Dysentery (Shigellosis)	9	18	1	28
+Bacterial Meningitis (including meningococcal septicaemia)	187	208	1	396
+Brucellosis	13	1	0	14
+Cholera	0	1	0	1
+Creutzfeldt Jakob Disease	5	1	0	6
+Food Poisoning (bacterial other than salmonella)	630	562	27	1219
+Gastroenteritis (children < 2 years of age)	1102	916	39	2057
+Infectious Mononucleosis	68	82	0	150
+Infectious Parotitis (Mumps)	19	18	3	40
+Influenzal Pneumonia	1	1	0	2
+Legionnaires Disease	3	0	0	3
+Leptospirosis	7	2	0	9
+Malaria	6	5	0	11
+Measles	128	105	8	241
+Ornithosis	0	3	0	3
+Rubella	25	31	1	57
+Salmonellosis (other than typhoid or paratyphoid)	208	212	8	428
+Tetanus	2	1	0	3
+Tuberculosis***	261	148	0	409*!
+Typhoid & Paratyphoid	2	2	0	4
+Viral Hepatitis Type A	55	50	7	112
+Viral Hepatitis Type B	185	137	20	342
+Viral Hepatitis Unspecified	59	28	3	90

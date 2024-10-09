@@ -1,0 +1,38 @@
+""	Infectious Diseases Notified in Ireland~ 1982-2000																			
+""	Infectious Disease	1982	1983	1984	1985	1986	1987	1988	1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000
+""	Acute Anterior Poliomyelitis	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+""	Acute Encephalitis	4	7	10	4	7	1	0	0	0	0	1	2	1	0	7	3	0	1	1
+""	Acute Viral Meningitis	54	191	163	120	161	81	101	52	300	86	104	39	90	74	77	32	32	27	98
+""	Anthrax	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+""	Bacillary Dysentery (Shigellosis)	143	212	273	146	347	68	422	143	277	736	283	219	203	97	59	41	120	116	30
+""	"Bacterial Meningitis(including meningococcal septicaemia)*"	124	141	192	100	147	111	128	115	131	155	225	203	241	382	410	508	491	587	586
+""	Brucellosis	159	126	126	115	53	38	22	20	15	27	26	28	14	6	10	7	15	19	15
+""	Cholera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+""	Creutzfeldt Jakob Disease**	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	3	6	1	2
+""	vCreutzfeldt Jakob Disease**	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	NN	0	0	1	0
+""	Diphtheria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+""	"Food Poisoning(bacterial other than salmonella)"	68	83	164	98	195	88	43	64	157	83	46	97	62	100	276	448	1235	1673	1554
+""	"Gastroenteritis(when contracted by children under 2 years )"	2404	2987	3242	3317	3815	3900	3241	3410	3758	4132	3410	3832	3043	3234	2997	2968	3483	2917	2796
+""	Infectious Mononucleosis	55	196	233	214	145	186	286	211	208	188	208	206	183	156	216	212	217	198	151
+""	Infectious Parotitis (Mumps)	NA	NA	NA	NA	NA	NA	271	709	48	53	43	44	33	27	422	285	57	38	52
+""	Influenzal Pneumonia	6	76	93	37	153	53	73	42	94	139	48	55	6	31	54	29	4	15	20
+""	Legionnaires Disease	2	2	1	0	0	0	4	2	1	0	2	0	1	1	2	6	2	2	9
+""	Leptospirosis	4	14	8	5	4	6	3	5	5	4	9	5	2	1	6	8	12	6	7
+""	Malaria	33	17	12	32	41	28	30	23	12	11	15	9	12	9	14	8	17	17	19
+""	Measles	1897	6180	5725	9903	451	201	936	1248	556	135	179	4328	1233	235	228	185	204	147	1603
+""	Ornithosis	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+""	Plague	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+""	Rabies	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+""	Rubella	166	2395	2060	668	799	444	1156	440	258	206	155	179	206	100	602	113	83	62	97
+""	"Salmonellosis(other than typhoid or paratyphoid)"	175	205	287	142	265	249	271	427	473	484	270	295	338	571	678	958	1261	962	640
+""	Smallpox	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+""	Tetanus	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	1
+""	Tuberculosis***	975	924	837	804	602	581	575	638	613	640	604	598	524	458	434	416	424	469	NA
+""	Typhoid & Paratyphoid	2	4	3	1	1	0	2	0	0	4	3	1	1	4	4	0	3	0	1
+""	Typhus	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+""	Viral Haemorrhagic Disease	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+""	Viral Hepatitis Type A	184	237	255	201	126	212	261	564	538	205	430	369	94	133	313	422	218	323	309
+""	Viral Hepatitis Type B	26	54	33	57	55	63	32	20	11	15	13	11	20	11	11	31	155	160	187
+""	Viral Hepatitis Unspecified	1066	1192	1022	731	544	381	253	371	398	152	240	190	60	66	67	122	147	125	65
+""	Whooping Cough	1073	1728	3061	3689	1482	1717	1170	2217	803	843	860	869	353	436	261	459	252	179	152
+""	Yellow Fever	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
