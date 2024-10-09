@@ -100,6 +100,7 @@ d$disease[d$disease == "Influenza (seasonal & pandemic)"] <- "Influenza"
 d$disease[d$disease == "Influenzal Pneumonia"] <- "Influenza"
 d$disease[d$disease == "Viral Hepatitis Type B"] <- "Hepatitis B (acute and chronic)"
 d$disease[d$disease == "Whooping Cough"] <- "Pertussis"
+d$disease <- str_replace_all(d$disease, "\t", " ")
 d %<>% group_by(disease, year) %>%
   summarize(count = sum(count)) %>%
   ungroup()
